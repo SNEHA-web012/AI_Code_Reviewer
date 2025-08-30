@@ -115,6 +115,4 @@ Frontend will run on `http://localhost:5173`.
 
 ![AI Code Reviewer](/interface/AI-Code-Reviewer.png)
 
-## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
